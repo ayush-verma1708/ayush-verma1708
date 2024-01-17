@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ayush-verma
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/AYUSH-VERMA-red" />
 <p>&nbsp;</p>
 
