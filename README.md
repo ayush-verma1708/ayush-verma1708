@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 
 An enthusiast looking out for tomorrow.
 
-- :bulb: ex-SDE Intern @ Prospeer
+- :bulb: ex-SDE Intern @ Prospeer 
 - 🏫 Tech Head at IET Student Chapter 2023-24
 - 🌱 Core Member for VRGD(Virtual Reality Game Development) Club
 - :books: CSE Final Year
+- 🏪: Developed Site for [TheMerakiStore](https://themerakistore.in/) 
 - :computer: Software Development Engineer
 - 📫 Contact: [LinkedIn](https://www.linkedin.com/in/ayush-verma-/) or mail me at `verma.ayush1708@gmail.com`
 <p>&nbsp;</p>
